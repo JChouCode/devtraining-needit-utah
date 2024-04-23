@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="one">afa8a5fc47718610afffeee3716d433c</decision_input>
+        <decision_table display_value="test table">c728e9bc47718610afffeee3716d4383</decision_table>
+        <default_operator>=</default_operator>
+        <description/>
+        <field/>
+        <field_label/>
+        <field_parent_table/>
+        <label>test1</label>
+        <order>100</order>
+        <parent/>
+        <reference/>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 19:50:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>44b829fc47718610afffeee3716d43c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_44b829fc47718610afffeee3716d43c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 19:50:23</sys_updated_on>
+        <type display_value="Integer">aab367c1bf3320001875647fcf073909</type>
+    </sn_decision_table_decision_condition>
+</record_update>
